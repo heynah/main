@@ -11,8 +11,8 @@ A concise central function that creates paths (leaves a trail of breadcrumbs beh
 
 * Secret party? Exclusive sale? Pop-up exhibition? Invite your guests with a trail of 'Crumbz or send a path out as a promotional too. 
 
-![puf.li](src/images/IMG_1999.PNG)     ![](src/images/IMG_2001.PNG) 
-![](src/images/IMG_2002.PNG)     ![](src/images/IMG_2004.PNG)  
+![puf.li](src/images/IMG_1999.PNG)         ![puf.li](src/images/IMG_2001.PNG) 
+![puf.li](src/images/IMG_2004.PNG)         ![puf.li](src/images/IMG_2002.PNG)     
 
 **Resources used to begin the coding of this project:**
 
